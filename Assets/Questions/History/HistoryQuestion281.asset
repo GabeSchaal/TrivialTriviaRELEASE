@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37001313623ebe048a95bd8c56033a7f, type: 3}
+  m_Name: HistoryQuestion281
+  m_EditorClassIdentifier: 
+  text: "The origin name of _____ is coined with the meaning \u2018gem of the mountains.\u2019"
+  answer: Idaho
+  wrongAnswer1: North Carolina
+  wrongAnswer2: Vermont
+  wrongAnswer3: New Jersey
+  pointsAwarded: 100

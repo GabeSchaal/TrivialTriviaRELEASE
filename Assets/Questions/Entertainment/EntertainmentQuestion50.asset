@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37001313623ebe048a95bd8c56033a7f, type: 3}
+  m_Name: EntertainmentQuestion50
+  m_EditorClassIdentifier: 
+  text: Starring Tom Hanks, this 2016 drama film is based on the autobiography book
+    "Highest Duty"?
+  answer: Sully
+  wrongAnswer1: Midnight Special
+  wrongAnswer2: American Pastoral
+  wrongAnswer3: The Salesman
+  pointsAwarded: 100

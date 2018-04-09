@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37001313623ebe048a95bd8c56033a7f, type: 3}
+  m_Name: HistoryQuestion311
+  m_EditorClassIdentifier: 
+  text: The ________ in Oklahoma City is targeted in the deadliest act of domestic
+    terrorism in U.S. history.
+  answer: Murrah Federal Building
+  wrongAnswer1: Oklahoma City National Memorial
+  wrongAnswer2: Branch Davidians
+  wrongAnswer3: Ronan Point
+  pointsAwarded: 100

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37001313623ebe048a95bd8c56033a7f, type: 3}
+  m_Name: ScienceQuestion237
+  m_EditorClassIdentifier: 
+  text: What is the Atomic Number of Vanadium?
+  answer: 23
+  wrongAnswer1: 25
+  wrongAnswer2: 27
+  wrongAnswer3: 31
+  pointsAwarded: 100
